@@ -1,28 +1,28 @@
-# 🚀 Anime Hub
+# Anime Hub
 
 **AnimeHub** - Discover The World Of Anime 🌏
 
-## 📝 Overview
+## Overview
 
 AnimeHub is a comprehensive platform where users can explore and discover a vast collection of anime from around the globe. Built with Next.js, it leverages static site generation and dynamic API routes to deliver an efficient and seamless browsing experience. Dive into the world of anime, find your favorite shows, and explore new ones!
 
-## ✨ Features
+## Features
 
-* 🎥 Explore Endless Anime: Discover a wide range of anime from various genres.
-* 📅 Upcoming Releases: Keep track of new and upcoming anime series.
+* Explore Endless Anime: Discover a wide range of anime from various genres.
+* Upcoming Releases: Keep track of new and upcoming anime series.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-* ⚛️ Framework: Next.js for building a dynamic and responsive user interface.
-* 🎨 Styling: Tailwind CSS for sleek and modern design.
-* 🌐 API: Fetch data directly from public anime APIs using Next.js API Routes.
-* 🚀 Deployment: Deployed on Vercel for fast and reliable hosting.
+* Framework: Next.js for building a dynamic and responsive user interface.
+* Styling: Tailwind CSS for sleek and modern design.
+* API: Fetch data directly from public anime APIs using Next.js API Routes.
+* Deployment: Deployed on Vercel for fast and reliable hosting.
 
-## 🚀 Getting Started
+## Getting Started
 
-### 📋 Prerequisites
-* 📦 Node.js (v12.x or later)
-* 📦 npm or yarn
+### Prerequisites
+* Node.js (v12.x or later)
+* npm or yarn
 
 ### ⚙️ Installation
 1. Clone the repository:
@@ -34,32 +34,27 @@ AnimeHub is a comprehensive platform where users can explore and discover a vast
 3. Install dependencies:
    ```bash
    npm install
+   ```
    # or
-   yarn install****
+   ```bash
+   yarn install
+   ```
    
 ### Running the Project
 To start the development server:
 
    ```bash
    npm run dev
+   ```
    # or
+   ```bash
    yarn dev
-```
+   ```
+
 Open http://localhost:3000 with your browser to see the app in action.
 
 ### API Routes
 This project uses Next.js API Routes for backend functionality. These routes are located in the /pages/api directory and handle tasks such as data fetching and interacting with the MongoDB database.
-
-### Deployment
-The project is ready for deployment on Vercel or other hosting services that support Next.js. For a production build:
-
-   ```bash
-   npm run build
-   npm run start
-   # or
-   yarn build
-   yarn start
-```
 
 
 ### Contributing
